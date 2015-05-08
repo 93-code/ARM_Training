@@ -1,0 +1,13 @@
+.global _start
+
+_start:
+	mov r0,#1
+	mov r1,#2
+	mov r3,#3
+
+	mov r4,#0x24000
+	stmia r4!,{r0,r1,r3}
+
+	stmda r4!,{r7-r5}
+stop:
+	b stop

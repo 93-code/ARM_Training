@@ -1,0 +1,7 @@
+.global _start
+
+_start:
+	mov sp,#0x38000
+	b main
+stop:
+	b stop

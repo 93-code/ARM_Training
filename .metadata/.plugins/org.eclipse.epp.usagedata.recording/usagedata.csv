@@ -1,0 +1,176 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.StepInto",1431087636937
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.StepInto",1431087638171
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.StepInto",1431087638609
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087677750
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087738437
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431087739609
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431087740796
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.StepInto",1431087740906
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431087742109
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431087743546
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431087858437
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431087877484
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087880421
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087881875
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431087881875
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087892234
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087897687
+error,log,,,"Internal error logged from CDI Debug: ",1431087904937
+error,log,,,"Internal error logged from CDI Debug: ",1431087904937
+error,log,,,"Internal error logged from CDI Debug: ",1431087904937
+error,log,,,"Internal error logged from CDI Debug: ",1431087904937
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431087910203
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431087910375
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431087913828
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431087919000
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431087919750
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087922437
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087923375
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431087923390
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087927468
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087932687
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431087932703
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087934734
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087937453
+error,log,,,"Internal error logged from CDI Debug: ",1431087939218
+error,log,,,"Internal error logged from CDI Debug: ",1431087939218
+error,log,,,"Internal error logged from CDI Debug: ",1431087939218
+error,log,,,"Internal error logged from CDI Debug: ",1431087939218
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431087942171
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431087942296
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431087950406
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431087951843
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087955421
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087957156
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431087957171
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087961312
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431087963062
+error,log,,,"Internal error logged from CDI Debug: ",1431087966421
+error,log,,,"Internal error logged from CDI Debug: ",1431087966421
+error,log,,,"Internal error logged from CDI Debug: ",1431087966421
+error,log,,,"Internal error logged from CDI Debug: ",1431087966421
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431087967093
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431087967203
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431087976343
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431087978437
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088000015
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088006812
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088007828
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088007843
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088010859
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088014578
+error,log,,,"Internal error logged from CDI Debug: ",1431088018968
+error,log,,,"Internal error logged from CDI Debug: ",1431088018968
+error,log,,,"Internal error logged from CDI Debug: ",1431088018968
+error,log,,,"Internal error logged from CDI Debug: ",1431088018968
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088022156
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088022265
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.StepInto",1431088040781
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088045593
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088048546
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088138718
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088141656
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088209234
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088213843
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088214468
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088218718
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088219140
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088219875
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088220375
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088222078
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088246687
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088252625
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088258437
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088258453
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088269500
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088271671
+error,log,,,"Internal error logged from CDI Debug: ",1431088275609
+error,log,,,"Internal error logged from CDI Debug: ",1431088275609
+error,log,,,"Internal error logged from CDI Debug: ",1431088275609
+error,log,,,"Internal error logged from CDI Debug: ",1431088275609
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088277156
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088277234
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088292234
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088293171
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088310265
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088314046
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088315562
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088315578
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088320671
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088323796
+error,log,,,"Internal error logged from CDI Debug: ",1431088328781
+error,log,,,"Internal error logged from CDI Debug: ",1431088328781
+error,log,,,"Internal error logged from CDI Debug: ",1431088328781
+error,log,,,"Internal error logged from CDI Debug: ",1431088328781
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088330734
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088330906
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088339750
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088341250
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088367921
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088372125
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088374156
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088374171
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088380781
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088384250
+error,log,,,"Internal error logged from CDI Debug: ",1431088389265
+error,log,,,"Internal error logged from CDI Debug: ",1431088389265
+error,log,,,"Internal error logged from CDI Debug: ",1431088389265
+error,log,,,"Internal error logged from CDI Debug: ",1431088389265
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088390453
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088390562
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088416390
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088419234
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088428187
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088432750
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088433703
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088433718
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088439156
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088441703
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088449312
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088449328
+error,log,,,"Internal error logged from CDI Debug: ",1431088455078
+error,log,,,"Internal error logged from CDI Debug: ",1431088455078
+error,log,,,"Internal error logged from CDI Debug: ",1431088455078
+error,log,,,"Internal error logged from CDI Debug: ",1431088455078
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088457250
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088457406
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088464484
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088467125
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088478343
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088487718
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088488890
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088488906
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088501156
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088503968
+error,log,,,"Internal error logged from CDI Debug: ",1431088507546
+error,log,,,"Internal error logged from CDI Debug: ",1431088507546
+error,log,,,"Internal error logged from CDI Debug: ",1431088507546
+error,log,,,"Internal error logged from CDI Debug: ",1431088507546
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088511281
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088511406
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088530062
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088533843
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088539484
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088614828
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088617296
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088621156
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088622046
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088622062
+error,log,,,"Internal error logged from CDI Debug: ",1431088627125
+error,log,,,"Internal error logged from CDI Debug: ",1431088627125
+error,log,,,"Internal error logged from CDI Debug: ",1431088627125
+error,log,,,"Internal error logged from CDI Debug: ",1431088627125
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088634265
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Resume",1431088634375
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088640906
+activated,view,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.DebugView",1431088673359
+executed,command,org.eclipse.debug.ui,3.6.1.v20100901_r361,"org.eclipse.debug.ui.commands.Terminate",1431088673500
+activated,editor,org.eclipse.cdt.ui,5.2.1.201009141542,"org.eclipse.cdt.ui.editor.CEditor",1431088680093
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.file.save",1431088687234
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088689281
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088690250
+executed,command,org.eclipse.ui.ide,3.6.1.M20100825-0800,"org.eclipse.ui.project.cleanAction",1431088690265
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088693921
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088696796
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1431088702750

@@ -1,0 +1,6 @@
+
+extern void mycopy(char *)
+int main()
+{
+	char
+}

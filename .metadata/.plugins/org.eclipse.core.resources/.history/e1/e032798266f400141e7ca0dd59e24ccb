@@ -1,0 +1,22 @@
+.global _start
+
+_start:
+	ldr r0,=myarray
+	ldr r1,[r0],#4
+
+	bl cal
+
+stop:
+	b stop
+
+cal:
+	cmpeq r1,#0
+	b stop
+	ldr r2,[r0],#4
+	sub r4,r1,r2
+	bl cal
+
+myarray:
+	.word 0x11
+	.word 0x22
+	.word 0

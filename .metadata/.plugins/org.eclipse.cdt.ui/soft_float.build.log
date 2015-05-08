@@ -1,0 +1,7 @@
+
+**** Build of configuration Default for project soft_float ****
+
+make all 
+arm-none-eabi-ld  -Ttext=0x20000 start.o main.o -o arm.elf -static -L "C:\Program Files\yagarto\lib\gcc\arm-none-eabi\4.6.2" -lgcc
+d:\ARM¿ª·¢\yagarto\bin\arm-none-eabi-ld.exe: cannot find -lgcc
+make: *** [all] Error 1

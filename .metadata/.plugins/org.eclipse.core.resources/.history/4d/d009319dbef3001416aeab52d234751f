@@ -1,0 +1,28 @@
+/*
+ * cal1.s
+ *
+ *  Created on: 2015-5-6
+ *      Author: Administrator
+ */
+
+.global _start
+
+_start:
+
+	ldr r0,=0xabcd
+	ldr r1,=0xf
+	eor r1,r1
+	bic r0,r1
+
+	mov r1,#8
+	lsr r1,r1
+	bic r0,r1
+	ldr r1,=0xa
+	mov r2,#8
+	lsr r1,r2
+
+	orr r0,r1
+
+
+stop:
+	b stop

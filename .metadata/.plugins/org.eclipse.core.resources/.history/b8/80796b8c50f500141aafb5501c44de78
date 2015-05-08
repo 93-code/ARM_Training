@@ -1,0 +1,17 @@
+int enable_irq()
+{
+	int status;
+	asm{
+		"\n"
+		"\n"
+		:
+		:
+		:
+	};
+	return status;
+	}
+
+int disable_irq()
+{
+
+}

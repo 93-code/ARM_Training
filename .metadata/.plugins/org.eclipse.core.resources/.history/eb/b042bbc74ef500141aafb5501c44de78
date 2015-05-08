@@ -1,0 +1,8 @@
+int enable_irq()
+{
+	}
+
+int disable_irq()
+{
+
+}
