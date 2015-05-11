@@ -1,0 +1,13 @@
+#include "s5pc100.h"
+
+void system_clock_init()
+{
+	//时钟源选择
+	CLK_SRC.CLK_SRC0 = (1 << 0) | (1 << 4) | (0 << 16);
+	//设置分频APLL
+	CLK_DIV.CLK_DIV0 = (1 << 0) | (0 << 4) | (3 << 8) | (1 << 12);
+	//设置APLL屏蔽时间
+	PLL_MASK.APLL_MASK = 3600;
+	//设置APLL
+	PLL_CON.APLL_CON = (0 << 0) | (3 << 8) | (333 << 16) | (1 << 31);
+	}

@@ -7,15 +7,15 @@
 	<section name="InstallationDialogSettings">
 		<item value="698" key="DIALOG_WIDTH"/>
 		<item value="-227" key="DIALOG_Y_ORIGIN"/>
-		<item value="598" key="DIALOG_HEIGHT"/>
 		<item value="-64" key="DIALOG_X_ORIGIN"/>
+		<item value="598" key="DIALOG_HEIGHT"/>
 		<item value="1|宋体|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|宋体" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="ShowViewDialog">
 		<item value="354" key="DIALOG_WIDTH"/>
 		<item value="181" key="DIALOG_Y_ORIGIN"/>
-		<item value="287" key="DIALOG_X_ORIGIN"/>
 		<item value="411" key="DIALOG_HEIGHT"/>
+		<item value="287" key="DIALOG_X_ORIGIN"/>
 		<item value="1|宋体|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|宋体" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="ImportExportAction">

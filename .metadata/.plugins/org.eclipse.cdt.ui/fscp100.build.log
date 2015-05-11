@@ -1,0 +1,19 @@
+
+**** Build of configuration Default for project fscp100 ****
+
+make all 
+arm-none-eabi-gcc -c -g start/start.S -o start.o
+arm-none-eabi-gcc -c -g main.c -o main.o
+make -C ./driver
+make[1]: Entering directory `D:/arm/fscp100/driver'
+arm-none-eabi-gcc -c -g key.c -o ../lib/key.o -I ../include
+arm-none-eabi-gcc -c -g led.c -o ../lib/led.o -I ../include
+arm-none-eabi-gcc -c -g delay.c -o ../lib/delay.o -I ../include
+arm-none-eabi-gcc -c -g beep.c -o ../lib/beep.o -I ../include
+arm-none-eabi-gcc -c -g clock.c -o ../lib/clock.o -I ../include
+make -C ../lib
+make[2]: Entering directory `D:/arm/fscp100/lib'
+arm-none-eabi-ar -cr libfsp100.a *.o
+make[2]: Leaving directory `D:/arm/fscp100/lib'
+make[1]: Leaving directory `D:/arm/fscp100/driver'
+arm-none-eabi-ld -Ttext=0x20000 start.o main.o -o fspc100.elf -L ./lib -lfsp100

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<<<<<<< HEAD
 <workbench progressCount="30" version="2.0">
+=======
+<workbench progressCount="20" version="2.0">
+>>>>>>> 5c1000a... Add printf
+=======
+<workbench progressCount="15" version="2.0">
+>>>>>>> c1be9bf... Add clock
 <workbenchAdvisor/>
 <window height="766" maximized="true" width="1026" x="462" y="35">
 <fastViewData fastViewLocation="1024"/>
@@ -12,9 +20,19 @@
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="161" y="22"/>
 <coolItem id="org.eclipse.cdt.ui.buildConfigActionSet" itemType="typeToolBarContribution" x="85" y="22"/>
+<<<<<<< HEAD
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="124" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="98" y="22"/>
 <coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="109" y="22"/>
+=======
+<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.cdt.ui.editor.asm.AsmEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="124" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="98" y="22"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+>>>>>>> c1be9bf... Add clock
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="185" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
@@ -34,21 +52,77 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
+<<<<<<< HEAD
+=======
+<part id="3"/>
+<part id="4"/>
+>>>>>>> c1be9bf... Add clock
 </presentation>
 </folder>
 </info>
 </editorArea>
+<<<<<<< HEAD
+<<<<<<< HEAD
 <editor id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="start.S" partName="start.S" path="C:/Documents and Settings/Administrator/桌面/第四天/LED/start.S" title="start.S" tooltip="LED/start.S" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LED/start.S"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Documents and Settings/Administrator/桌面/第四天/LED/main.c" title="main.c" tooltip="LED/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LED/main.c"/>
+=======
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="s5pc100.h" partName="s5pc100.h" path="D:/arm/fscp100/include/s5pc100.h" title="s5pc100.h" tooltip="fscp100/include/s5pc100.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/include/s5pc100.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="4" selectionOffset="3440" selectionTopPixel="2356"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="uart.c" partName="uart.c" path="D:/arm/fscp100/driver/uart.c" title="uart.c" tooltip="fscp100/driver/uart.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/uart.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="838" selectionTopPixel="513"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="music.c" partName="music.c" path="D:/arm/fscp100/driver/music.c" title="music.c" tooltip="fscp100/driver/music.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/music.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1474" selectionTopPixel="788"/>
+</editor>
+<editor id="org.eclipse.cdt.make.editor" name="Makefile" partName="Makefile" path="D:/arm/fscp100/driver/Makefile" title="Makefile" tooltip="fscp100/driver/Makefile" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/Makefile"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="227" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="clock.c" partName="clock.c" path="D:/arm/fscp100/driver/clock.c" title="clock.c" tooltip="fscp100/driver/clock.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/clock.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="50" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="beep.c" partName="beep.c" path="D:/arm/fscp100/driver/beep.c" title="beep.c" tooltip="fscp100/driver/beep.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/beep.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="372" selectionTopPixel="370"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/arm/fscp100/main.c" title="main.c" tooltip="fscp100/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/main.c"/>
+>>>>>>> 5c1000a... Add printf
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="17" selectionTopPixel="0"/>
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.binaryEditor" name="asm.elf" partName="asm.elf" path="C:/Documents and Settings/Administrator/桌面/第四天/LED/asm.elf" title="asm.elf" tooltip="LED/asm.elf" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LED/asm.elf"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+=======
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="beep.c" partName="beep.c" path="D:/arm/fscp100/driver/beep.c" title="beep.c" tooltip="fscp100/driver/beep.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/beep.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="clock.c" partName="clock.c" path="D:/arm/fscp100/driver/clock.c" title="clock.c" tooltip="fscp100/driver/clock.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/clock.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1187" selectionTopPixel="522"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="delay.c" partName="delay.c" path="D:/arm/fscp100/driver/delay.c" title="delay.c" tooltip="fscp100/driver/delay.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/delay.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="key.c" partName="key.c" path="D:/arm/fscp100/driver/key.c" title="key.c" tooltip="fscp100/driver/key.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/driver/key.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/arm/fscp100/main.c" title="main.c" tooltip="fscp100/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fscp100/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="17" selectionTopPixel="0"/>
+>>>>>>> c1be9bf... Add clock
 </editor>
 </editors>
 <views>
@@ -93,10 +167,19 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<<<<<<< HEAD
+<<<<<<< HEAD
 <expanded>
 <category IMemento.internal.id="Errors (1 item)"/>
 <category IMemento.internal.id="Warnings"/>
+=======
+<expanded>&#x0A;<category IMemento.internal.id="Warnings"/>
+>>>>>>> 5c1000a... Add printf
 <category IMemento.internal.id="Errors"/>
+=======
+<expanded>
+<category IMemento.internal.id="Warnings"/>
+>>>>>>> c1be9bf... Add clock
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -130,7 +213,11 @@
 <viewState/>
 </view>
 </views>
+<<<<<<< HEAD
 <perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.cdt.ui.CPerspective">
+=======
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.eclipse.debug.ui.DebugPerspective">
+>>>>>>> c1be9bf... Add clock
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.cdt.internal.ui.CPerspectiveFactory" id="org.eclipse.cdt.ui.CPerspective" label="C/C++"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -361,6 +448,8 @@
 <workingSets/>
 <navigationHistory>
 <editors>
+<<<<<<< HEAD
+<<<<<<< HEAD
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.make.editor" path="/inline_asm/Makefile"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/inline_asm/irq.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" path="/inline_asm/asm.s"/>
@@ -386,6 +475,21 @@
 </item>
 <item historyLabel="irq.c" index="1">
 <position info="not_deleted" x="384" y="0"/>
+=======
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/uart.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.make.editor" path="/fscp100/driver/Makefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/music.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/include/s5pc100.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/beep.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/clock.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/uart.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/music.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/beep.c"/>
+</editors>
+<item historyLabel="clock.c" index="6">
+<position/>
+>>>>>>> 5c1000a... Add printf
 </item>
 <item historyLabel="asm.s" index="2">
 <position info="not_deleted" x="179" y="0"/>
@@ -476,6 +580,21 @@
 </item>
 <item historyLabel="asm.dis" index="4">
 <position info="not_deleted" x="0" y="0"/>
+=======
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/key_led/myled.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/clock.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/key_led/s5pc100.init"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" path="/key_led/myled.s"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/beep.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/delay.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/driver/key.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.binaryEditor" path="/fscp100/main.o"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/fscp100/main.c"/>
+</editors>
+<item historyLabel="myled.c" index="0">
+<position info="not_deleted" x="1104" y="0"/>
+>>>>>>> c1be9bf... Add clock
 </item>
 <item historyLabel="irq.c" index="1">
 <position/>
@@ -522,8 +641,104 @@
 <item historyLabel="main.c" index="11">
 <position info="not_deleted" x="17" y="0"/>
 </item>
+<<<<<<< HEAD
 <item active="true" historyLabel="asm.elf" index="12">
 <position info="not_deleted" x="0" y="0"/>
+=======
+<item historyLabel="s5pc100.h" index="4">
+<position info="not_deleted" x="3440" y="4"/>
+>>>>>>> 5c1000a... Add printf
+</item>
+<item historyLabel="uart.c" index="7">
+<position info="not_deleted" x="838" y="0"/>
+</item>
+<item historyLabel="music.c" index="8">
+<position info="not_deleted" x="1474" y="0"/>
+</item>
+<<<<<<< HEAD
+<item active="true" historyLabel="beep.c" index="9">
+<position info="not_deleted" x="372" y="0"/>
+=======
+<item historyLabel="myled.c" index="0">
+<position info="not_deleted" x="874" y="0"/>
+>>>>>>> c1be9bf... Add clock
+</item>
+<item historyLabel="main.c" index="1">
+<position info="not_deleted" x="18" y="0"/>
+</item>
+<item historyLabel="myled.c" index="0"/>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="0" y="1437"/>
+</item>
+<item historyLabel="s5pc100.init" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="1437" y="0"/>
+</item>
+<item historyLabel="myled.c" index="0"/>
+<item historyLabel="myled.s" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="beep.c" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="delay.c" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="key.c" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.o" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="1435" y="0"/>
+</item>
+<item historyLabel="main.c" index="9">
+<position info="not_deleted" x="17" y="0"/>
+</item>
+<item historyLabel="main.o" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="9">
+<position info="not_deleted" x="17" y="0"/>
+</item>
+<item historyLabel="beep.c" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="865" y="0"/>
+</item>
+<item historyLabel="main.c" index="9">
+<position info="not_deleted" x="17" y="0"/>
+</item>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="826" y="0"/>
+</item>
+<item historyLabel="main.c" index="9">
+<position info="not_deleted" x="17" y="0"/>
+</item>
+<item historyLabel="clock.c" index="2">
+<position info="not_deleted" x="1187" y="0"/>
+</item>
+<item historyLabel="key.c" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="9">
+<position info="not_deleted" x="17" y="0"/>
+</item>
+<item historyLabel="delay.c" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="clock.c" index="2">
+<position info="not_deleted" x="1187" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -542,6 +757,7 @@
 </trimLayout>
 </window>
 <mruList>
+<<<<<<< HEAD
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.binaryEditor" name="asm.elf" tooltip="LED/asm.elf">
 <persistable path="/LED/asm.elf"/>
 </file>
@@ -559,6 +775,52 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="cal4.s" tooltip="asm/cal4.s">
 <persistable path="/asm/cal4.s"/>
+=======
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="fscp100/main.c">
+<persistable path="/fscp100/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.binaryEditor" name="main.o" tooltip="fscp100/main.o">
+<persistable path="/fscp100/main.o"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="key.c" tooltip="fscp100/driver/key.c">
+<persistable path="/fscp100/driver/key.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="delay.c" tooltip="fscp100/driver/delay.c">
+<persistable path="/fscp100/driver/delay.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="clock.c" tooltip="fscp100/driver/clock.c">
+<persistable path="/fscp100/driver/clock.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="beep.c" tooltip="fscp100/driver/beep.c">
+<persistable path="/fscp100/driver/beep.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="myled.c" tooltip="myled/myled.c">
+<persistable path="/myled/myled.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="key.c" tooltip="key_led/key.c">
+<persistable path="/key_led/key.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="s5pc100.init" tooltip="key_led/s5pc100.init">
+<persistable path="/key_led/s5pc100.init"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.make.editor" name="MakeFile" tooltip="key_led/MakeFile">
+<persistable path="/key_led/MakeFile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="myled.s" tooltip="key_led/myled.s">
+<persistable path="/key_led/myled.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="myled.c" tooltip="key_led/myled.c">
+<persistable path="/key_led/myled.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="myled.s" tooltip="myled/myled.s">
+<persistable path="/myled/myled.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="asm.s" tooltip="inline_asm/asm.s">
+<persistable path="/inline_asm/asm.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="irq.c" tooltip="inline_asm/irq.c">
+<persistable path="/inline_asm/irq.c"/>
+>>>>>>> c1be9bf... Add clock
 </file>
 </mruList>
 </workbench>
