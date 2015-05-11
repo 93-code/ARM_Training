@@ -1,6 +1,0 @@
-
-**** Build of configuration Default for project hard_float ****
-
-make all 
-arm-none-eabi-ld  -Ttext=0x20000 start.o main.o -o arm.elf 
-arm-none-eabi-objdump -D arm.elf > arm.dis

@@ -1,7 +1,0 @@
-
-**** Build of configuration Default for project myled ****
-
-make all 
-arm-none-eabi-gcc  myled.s  -g  -c -o myled.o 
-arm-none-eabi-gcc  myled.c  -g  -c -o main.o
-arm-none-eabi-ld   myled.o main.o -Ttext 0x20000 -o led.elf

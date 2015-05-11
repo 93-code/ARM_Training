@@ -1,9 +1,0 @@
-.global _start
-
-_start:
-	mov r0,#11
-	mov r1,#12
-	mov sp,#0x38000
-	b main
-stop:
-	b stop

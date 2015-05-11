@@ -52,6 +52,7 @@ int play_tone(unsigned char index,unsigned char beat)
 
 	return  0;
 }
+<<<<<<< HEAD
 int play_tone_on(unsigned char index)
 {
 	init_beep();
@@ -67,6 +68,8 @@ int play_tone_off()
 
 	return 0;
 }
+=======
+>>>>>>> e5522cd... Update arm
 
 int play_music()
 {

@@ -9,9 +9,15 @@ int main()
 	//water_led();
 =======
 	//≥ı ºªØLED
-	water_led();
+	 //test_wdt();
+	//uart_test();
+	//water_led();
 	//scan_key();
+<<<<<<< HEAD
 >>>>>>> c1be9bf... Add clock
+=======
+	play_music();
+>>>>>>> e5522cd... Update arm
 
 	while (1)
 	uart_printf("Hello\n");

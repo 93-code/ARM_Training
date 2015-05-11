@@ -15,7 +15,11 @@ _software_interrupt:.word software_interrupt
 _prefetch_abort:.word _prefetch_abort
 _data_abort:.word data_abort
 _not_used:.word _not_used
+<<<<<<< HEAD
 _irq:.word irq
+=======
+_irq:.word _irq
+>>>>>>> e5522cd... Update arm
 _fiq:.word _fiq
 _pad:.word 0x12345678
 
@@ -55,6 +59,7 @@ data_abort:
 
 	@·µ»Ø
 	ldmfd sp!,{r0-r12,pc}^
+<<<<<<< HEAD
 
 irq:
 	ldr sp,=0x33000
@@ -64,3 +69,5 @@ irq:
 	bl do_irq
 
 	ldmfd sp!,{r0-r12,pc}^
+=======
+>>>>>>> e5522cd... Update arm

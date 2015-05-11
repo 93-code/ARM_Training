@@ -1,6 +1,10 @@
 #include <s5pc100.h>
 
+<<<<<<< HEAD
 void init_uart()
+=======
+void uart_init()
+>>>>>>> e5522cd... Update arm
 {
 	//ÉèÖÃGPA0ÎªUART
 	GPA0.GPA0CON = (0x2 << 0) | (0x2 << 4);
@@ -24,6 +28,7 @@ void uart_send(unsigned char data)
 	return;
 }
 
+<<<<<<< HEAD
 char *puts(char *string)
 {
 	char *p = string;
@@ -35,6 +40,8 @@ char *puts(char *string)
 }
 
 
+=======
+>>>>>>> e5522cd... Update arm
 unsigned char uart_recv()
 {
 	int flag = 0;
@@ -48,9 +55,15 @@ void uart_test()
 {
 	unsigned char index;
 	unsigned char data;
+<<<<<<< HEAD
 	char *string = "Hello";
 	//init
 	init_uart();
+=======
+	char *string = "Hello xxxxx";
+	//init
+	uart_init();
+>>>>>>> e5522cd... Update arm
 	//send
 	while (*string != '\0'){
 		uart_send(*string);

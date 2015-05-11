@@ -1,9 +1,0 @@
-
-int main()
-{
-	//≥ı ºªØLED
-	//water_led();
-	scan_key();
-
-	return 0;
-}

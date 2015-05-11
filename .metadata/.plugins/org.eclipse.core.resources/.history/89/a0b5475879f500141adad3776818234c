@@ -1,5 +1,0 @@
-all:
-	arm-none-eabi-gcc  myled.c  -O -g  -c -o main.o
-	arm-none-eabi-ld  main.o -Ttext 0x20000 -o led.elf
-clean:
-	rm -rf *.o *.elf 

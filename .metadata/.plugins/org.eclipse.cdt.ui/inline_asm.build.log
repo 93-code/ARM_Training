@@ -1,8 +1,0 @@
-
-**** Build of configuration Default for project inline_asm ****
-
-make all 
-arm-none-eabi-gcc -c -g irq.c -o main.o
-arm-none-eabi-ld -Ttext=0x20000 main.o -o asm.elf
-arm-none-eabi-ld: warning: cannot find entry symbol _start; defaulting to 00020000
-arm-none-eabi-objdump -D asm.elf > asm.dis
